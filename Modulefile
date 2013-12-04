@@ -1,0 +1,8 @@
+name 'ghoneycutt-stdlibfeatures'
+version '0.1.0'
+source 'git://github.com/ghoneycutt/puppet-module-stdlibfeatures.git'
+author 'ghoneycutt'
+license 'Apache License, Version 2.0'
+summary 'cherry picked features from puppetlabs/stdlib'
+description 'cherry picked features from puppetlabs/stdlib. We are not yet ready to migrate to stdlib 4.x'
+project_page 'https://github.com/ghoneycutt/puppet-module-stdlibfeatures'
